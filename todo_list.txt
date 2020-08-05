@@ -1,0 +1,22 @@
+Settings wise:
+    Resolution change
+    
+Audio-Soundtrack:
+    Play sounds (jump sounds, run sounds ect..)
+
+Controls:
+    Jump, Move and stuff
+
+UI:
+    Change something on screen (score or health)
+
+Create/Destroy objects:
+    When Jump into blocks, destory them
+
+Levels:
+    Restart level,
+    Change level,
+    Final screen.
+
+Programming:
+    Create at least one bp node using c++
