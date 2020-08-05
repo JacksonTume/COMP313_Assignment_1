@@ -1,13 +1,2 @@
-Audio wise:
-    Record sounds (jump sounds, run sounds)
-
-Controls:
-    Double Jump
-
-Levels:
-    Restart level,
-    Change level,
-    Final screen.
-
 Programming:
     Create at least one bp node using c++
