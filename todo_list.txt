@@ -1,14 +1,12 @@
-Settings wise:
-    Audio Settings
-    
+  
 Audio wise:
     Record sounds (jump sounds, run sounds)
 
 Controls:
-    Jump, Move and stuff
+    Double Jump
 
 UI:
-    Change something on screen
+    Score
 
 Create/Destroy objects:
     When Jump into blocks, destory them
