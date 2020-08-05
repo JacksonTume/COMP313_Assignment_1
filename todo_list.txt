@@ -1,15 +1,8 @@
-  
 Audio wise:
     Record sounds (jump sounds, run sounds)
 
 Controls:
     Double Jump
-
-UI:
-    Score
-
-Create/Destroy objects:
-    When Jump into blocks, destory them
 
 Levels:
     Restart level,
