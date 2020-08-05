@@ -1,14 +1,14 @@
 Settings wise:
-    Resolution change
+    Audio Settings
     
-Audio-Soundtrack:
-    Play sounds (jump sounds, run sounds ect..)
+Audio wise:
+    Record sounds (jump sounds, run sounds)
 
 Controls:
     Jump, Move and stuff
 
 UI:
-    Change something on screen (score or health)
+    Change something on screen
 
 Create/Destroy objects:
     When Jump into blocks, destory them
