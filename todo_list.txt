@@ -1,9 +1,3 @@
-Audio wise:
-    Record sounds (jump sounds, run sounds)
-
-Controls:
-    Double Jump
-
 Levels:
     Restart level,
     Change level,
