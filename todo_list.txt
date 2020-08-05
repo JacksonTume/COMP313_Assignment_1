@@ -1,7 +1,2 @@
-Levels:
-    Restart level,
-    Change level,
-    Final screen.
-
 Programming:
     Create at least one bp node using c++
