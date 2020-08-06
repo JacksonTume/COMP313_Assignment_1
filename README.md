@@ -3,7 +3,8 @@
 ---
 # *Mario-Like Game*
 
-*video link*
+Link to video showing off my game:
+https://youtu.be/qLwrQc3yxJs
 
 * **Gane Description**
   * **What is the main action in the game**
