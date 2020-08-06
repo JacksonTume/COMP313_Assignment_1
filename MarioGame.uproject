@@ -18,5 +18,11 @@
 			"Name": "Text3D",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"WindowsNoEditor",
+		"LinuxNoEditor",
+		"MacNoEditor"
 	]
 }

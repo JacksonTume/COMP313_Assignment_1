@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a2c3412-de68-44b0-9e6d-718e61cbcb54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MarioGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MarioGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Audio/jump_Cue.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Audio/jump_Cue.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Audio/marioboops_Cue.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Audio/marioboops_Cue.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Audio/run_Cue.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Audio/run_Cue.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Block.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Block.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Enemy.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PowerUp.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/PowerUp.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/ThirdPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/ThirdPersonGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/ThirdPersonGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/LevelOne.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/LevelOne.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/LevelTwo.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/LevelTwo.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/MainMenu.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/MainMenu.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/WinLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/WinLevel.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/DeadScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/DeadScreen.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/UI/InGameHUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/InGameHUD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UI/WinScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/WinScreen.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MarioGame.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/MarioGame.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,14 +156,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596686344617</updated>
-      <workItem from="1596686351443" duration="1825000" />
+      <workItem from="1596686351443" duration="2427000" />
+      <workItem from="1596692385245" duration="1200000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
