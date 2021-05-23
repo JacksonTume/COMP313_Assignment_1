@@ -1,5 +1,4 @@
-# COMP 313 2020 - Assignment 1 
-#### Jackson Tume - 300446258
+* This was created for a COMP 313 Assignment, at Victoria University of Wellington - 2020 *
 ---
 # *Mario-Like Game*
 
